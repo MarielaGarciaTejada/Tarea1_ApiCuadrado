@@ -3,14 +3,14 @@ using Microsoft.AspNetCore.Mvc;
 namespace MiApi.Controllers;
 
 [ApiController]
-[Router("api/[controller]")]
+[Route("api/[controller]")]
 public class MathController : ControllerBase
 {
     [HttpGet("cuadrado/{numero:int}")]
     public IActionResult Cuadrado(int numero)
      {
           if (numero < 0)
-return BadRequest("El número debe ser mayor o igual a 0.");
-return Ok(numero * numero);
+            return BadRequest("El número debe ser mayor o igual a 0.");
+            return Ok(numero * numero);
      } 
 }

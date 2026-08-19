@@ -1,6 +1,6 @@
 @MiApiCuadrado_HostAddress = http://localhost:5172
 
-GET {{MiApiCuadrado_HostAddress}}/weatherforecast/
+GET {{MiApiCuadrado_HostAddress}}/api/Math/cuadrado/2
 Accept: application/json
 
 ###
