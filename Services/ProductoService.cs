@@ -16,9 +16,9 @@ public class ProductoService
     {
         var consulta = @"
             SELECT 
-                Id_Producto AS IdProducto, 
+                Id_Producto AS Id_Producto, 
                 Nombre, 
-                Descripción AS Descripcion, 
+                Descripcion AS Descripcion, 
                 Precio, 
                 Stock, 
                 FechaRegistro 

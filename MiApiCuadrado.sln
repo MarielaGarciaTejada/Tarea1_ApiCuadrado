@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiApiCuadrado", "MiApiCuadrado.csproj", "{2849834C-CAF9-A415-B441-6ECA710C2A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2849834C-CAF9-A415-B441-6ECA710C2A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2849834C-CAF9-A415-B441-6ECA710C2A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2849834C-CAF9-A415-B441-6ECA710C2A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2849834C-CAF9-A415-B441-6ECA710C2A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1C00C6-F238-4031-8257-F70A2B79C55A}
+	EndGlobalSection
+EndGlobal

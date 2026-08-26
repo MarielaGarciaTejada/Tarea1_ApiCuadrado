@@ -13,7 +13,7 @@ namespace MiApiCuadrado.DbContext
         {
             _configuracion = configuracion;
             // buscamos la cadena de conexion de somee 
-            _connectionString = _configuracion.GetConnectionString("SomeeConection");
+            _connectionString = _configuracion.GetConnectionString("SomeeConnection");
         }
 
        /* metodo de crear y devolver la conexion a Sql Server
