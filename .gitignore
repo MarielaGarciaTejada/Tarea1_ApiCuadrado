@@ -481,6 +481,14 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-publish/
-obj/
+# Carpetas de compilación
 bin/
+obj/
+publish/
+
+# Archivos de configuración (Contraseñas)
+appsettings.json
+appsettings.Development.json
+
+# Carpetas de VS Code
+.vscode/
