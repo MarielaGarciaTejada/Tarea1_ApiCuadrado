@@ -31,3 +31,4 @@ C:\Programación_IV\Tarea_1\MiApiCuadrado\obj\Debug\net10.0\refint\MiApiCuadrado
 C:\Programación_IV\Tarea_1\MiApiCuadrado\obj\Debug\net10.0\MiApiCuadrado.pdb
 C:\Programación_IV\Tarea_1\MiApiCuadrado\obj\Debug\net10.0\MiApiCuadrado.genruntimeconfig.cache
 C:\Programación_IV\Tarea_1\MiApiCuadrado\obj\Debug\net10.0\ref\MiApiCuadrado.dll
+C:\Programación_IV\Tarea_1\MiApiCuadrado\obj\Debug\net10.0\MiApiCuadrado.sourcelink.json
