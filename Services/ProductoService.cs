@@ -1,9 +1,9 @@
 using Dapper;
-using MiApiCuadrado.Api.Models; // Usamos el namespace que tienes en tu controlador
-using MiApiCuadrado.DbContext;
+using MiWebApi.Api.Models; // Usamos el namespace que tienes en tu controlador
+using MiWebApi.DbContext;
 using System.Collections.Generic;
 
-namespace MiApiCuadrado.Services;
+namespace MiWebApi.Services;
 
 public class ProductoService
 {

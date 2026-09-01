@@ -1,10 +1,10 @@
 using Dapper;
-using MiApiCuadrado.Api.Models;
-using MiApiCuadrado.DbContext;
-using MiApiCuadrado.Services;
+using MiWebApi.Api.Models;
+using MiWebApi.DbContext;
+using MiWebApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MiApiCuadrado.Controllers;
+namespace MiWebApi.Controllers;
 
 
 [Route("api/[controller]")]

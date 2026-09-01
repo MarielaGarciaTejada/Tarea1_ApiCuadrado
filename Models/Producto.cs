@@ -1,4 +1,4 @@
-namespace MiApiCuadrado.Api.Models
+namespace MiWebApi.Api.Models
 {
    public class Producto
     {

@@ -1,5 +1,5 @@
-using MiApiCuadrado.DbContext;
-using MiApiCuadrado.Services;
+using MiWebApi.DbContext;
+using MiWebApi.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);

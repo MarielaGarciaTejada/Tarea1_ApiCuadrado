@@ -1,7 +1,7 @@
 using System.Data;
 using Microsoft.Data.SqlClient;
 
-namespace MiApiCuadrado.DbContext
+namespace MiWebApi.DbContext
 {
     public class DapperContext{
 
